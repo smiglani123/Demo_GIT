@@ -1,2 +1,3 @@
 My Name is Sumit Miglani
-I am teaching Cloud and Devops.
+I am teaching Devops and Clouds
+It runs in CSE final semester
